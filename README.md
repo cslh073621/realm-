@@ -24,5 +24,5 @@ chmod +x setup_realm.sh
 # 运行脚本
 ./setup_realm.sh
 
-一键指令
+# 一键指令
 sudo apt-get update && sudo apt-get install cron && curl -sSL https://raw.githubusercontent.com/lgwszds/realm-/main/setup_realm.sh -o setup_realm.sh && chmod +x setup_realm.sh && ./setup_realm.sh
